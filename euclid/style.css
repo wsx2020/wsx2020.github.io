@@ -1,0 +1,30 @@
+body {
+  margin-top: 20px;
+  font-family: Kurale;
+  background-color: rgba(136,123,77,0.5);
+}
+
+p {
+  font-size: 12pt;
+}
+
+li {
+  font-size: 12pt;
+}
+
+a {
+  font-size: 12pt;
+}
+
+hr {
+  width: 50%;
+  border-width: 2px;
+}
+
+.last-hr {
+  width: 80%;
+}
+
+h3 {
+  color: #28390C;
+}
